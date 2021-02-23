@@ -1,0 +1,16 @@
+header{
+    min-height:9vh;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    background-color: #363636;
+}
+header h1{
+    font-size: 2.5 em;
+    color: #DAA520
+}
+main {
+    width: 100px;;
+    min-height:100 vh;
+    background:linear-gradient(#df0e0e,#C0C0C0)
+}
